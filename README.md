@@ -40,4 +40,3 @@ The app also allows users to **convert the meaning into a selected language** fr
 
 ---
 
-Made with ❤️ by Anmol Jindal
